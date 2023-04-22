@@ -59,8 +59,8 @@
     <string name="cancel_connection">Disconnect</string>
     <string name="cancel_connection_long">Disconnect VPN</string>
     <string name="clear_log">clear log</string>
-    <string name="title_cancel">Cancel Confirmation</string>
-    <string name="cancel_connection_query">Disconnect the connected VPN/cancel the connection attempt?</string>
+    <string name="title_cancel">Подтверждение отключения</string>
+    <string name="cancel_connection_query">Отключиться от текущего сервера??</string>
     <string name="remove_vpn">Remove VPN</string>
     <string name="check_remote_tlscert">Checks whether the server uses a certificate with TLS Server extensions (--remote-cert-tls server)</string>
     <string name="check_remote_tlscert_title">Expect TLS server certificate</string>
@@ -233,7 +233,7 @@
     <string name="minidump_generated">OpenVPN crashed unexpectedly. Please consider using the send Minidump option in the main menu</string>
     <string name="send_minidump">Send Minidump to developer</string>
     <string name="send_minidump_summary">Sends debugging information about last crash to developer</string>
-    <string name="notifcation_title">CakeVPN - %s</string>
+    <string name="notifcation_title">MyVpnStudy - %s</string>
     <string name="session_ipv4string">%1$s - %2$s</string>
     <string name="session_ipv6string">%1$s - %3$s, %2$s</string>
     <string name="state_connecting">Connecting</string>

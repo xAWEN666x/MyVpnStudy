@@ -159,7 +159,7 @@
     <string name="cancel">Cancel</string>
     <string name="cancel_connection">Disconnect</string>
     <string name="cancel_connection_long">Disconnect VPN</string>
-    <string name="cancel_connection_query">Disconnect the connected VPN/cancel the connection attempt?</string>
+    <string name="cancel_connection_query">Отключиться от текущего сервера??</string>
     <string name="cannotparsecert">Cannot display certificate information</string>
     <string name="cant_read_folder">Unable to read directory</string>
     <string name="change_sorting">Change sorting</string>
@@ -410,7 +410,7 @@
     <string name="no_vpn_support_image">Your image does not support the VPNService API, sorry :(</string>
     <string name="nobind_summary">Do not bind to local address and port</string>
     <string name="notenoughdata">Not enough data</string>
-    <string name="notifcation_title">CakeVPN - %s</string>
+    <string name="notifcation_title">MyVpnStudy - %s</string>
     <string name="notifcation_title_notconnect">Not connected</string>
     <string name="nought_alwayson_warning"><![CDATA[If you did not get a VPN confirmation dialog, you have \"Always on VPN\" enabled for another app. In that case only that app is allowed to connect to a VPN. Check under Settings-> Networks more .. -> VPNS]]></string>
     <string name="novpn_selected">No VPN selected.</string>
@@ -567,7 +567,7 @@
     <string name="timestamps_none">None</string>
     <string name="title_activity_open_sslspeed">OpenSSL Speed Test</string>
     <string name="title_block_address_families">Block IPv6 (or IPv4) if not used by the VPN</string>
-    <string name="title_cancel">Cancel Confirmation</string>
+    <string name="title_cancel">Подтверждение отключения</string>
     <string name="tls_auth_file">TLS Auth File</string>
     <string name="tls_authentication">TLS Authentication/Encryption</string>
     <string name="tls_cipher_alert">Newer OpenVPN for Android versions (0.6.29/March 2015) use a more secure default for the allowed cipher suites (tls-cipher \"DEFAULT:!EXP:!PSK:!SRP:!kRSA\"). Unfortunately, omitting the less secure cipher suites and export cipher suites, especially the omission of cipher suites that do not support Perfect Forward Secrecy (Diffie-Hellman) causes some problems. This usually caused by an well-intentioned but poorly executed attempt to strengthen TLS security by setting tls-cipher on the server or some embedded OSes with stripped down SSL (e.g. MikroTik).\nTo solve this problem the problem, set the tls-cipher settings on the server to reasonable default like tls-cipher \"DEFAULT:!EXP:!PSK:!SRP:!kRSA\". To work around the problem on the client add the custom option tls-cipher DEFAULT on the Android client.</string>
@@ -632,7 +632,7 @@
     <declare-styleable name="FileSelectLayout">
        <attr format="string|reference" name="fileTitle"/>
       <attr format="boolean" name="certificate"/>
-<!--     <attr name="taskid" format="integer" /> -->
+
        <attr format="boolean" name="showClear"/>
    </declare-styleable>
     <declare-styleable name="PagerSlidingTabStrip">
