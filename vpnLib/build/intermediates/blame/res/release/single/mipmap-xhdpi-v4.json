@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/root/myvpnstudy/MyVpnStudy/vpnLib/build/intermediates/res/merged/release/mipmap-xhdpi-v4/banner_tv.png",
+        "source": "/root/myvpnstudy/MyVpnStudy/vpnLib/src/main/res/mipmap-xhdpi/banner_tv.png"
+    },
+    {
+        "merged": "/root/myvpnstudy/MyVpnStudy/vpnLib/build/intermediates/res/merged/release/mipmap-xhdpi-v4/ic_launcher.png",
+        "source": "/root/myvpnstudy/MyVpnStudy/vpnLib/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]

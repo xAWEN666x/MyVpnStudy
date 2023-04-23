@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="de.blinkt.openvpn.ExampleUnitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-04-23T00:29:49" hostname="awen.aeza.network" time="0.003">
+  <properties/>
+  <testcase name="addition_isCorrect" classname="de.blinkt.openvpn.ExampleUnitTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
