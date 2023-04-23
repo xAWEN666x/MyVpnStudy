@@ -1,18 +1,18 @@
 [
     {
         "merged": "/root/myvpnstudy/MyVpnStudy/vpnLib/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/b7e3028a2c95d04c863f7b83a7d9ba8d/core-1.1.0/res/layout-v21/notification_action.xml"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/f3a4077100f7b4169f0fc317f659f74d/core-1.1.0/res/layout-v21/notification_action.xml"
     },
     {
         "merged": "/root/myvpnstudy/MyVpnStudy/vpnLib/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/b7e3028a2c95d04c863f7b83a7d9ba8d/core-1.1.0/res/layout-v21/notification_template_icon_group.xml"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/f3a4077100f7b4169f0fc317f659f74d/core-1.1.0/res/layout-v21/notification_template_icon_group.xml"
     },
     {
         "merged": "/root/myvpnstudy/MyVpnStudy/vpnLib/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/b7e3028a2c95d04c863f7b83a7d9ba8d/core-1.1.0/res/layout-v21/notification_action_tombstone.xml"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/f3a4077100f7b4169f0fc317f659f74d/core-1.1.0/res/layout-v21/notification_action_tombstone.xml"
     },
     {
         "merged": "/root/myvpnstudy/MyVpnStudy/vpnLib/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
-        "source": "/root/.gradle/caches/transforms-2/files-2.1/b7e3028a2c95d04c863f7b83a7d9ba8d/core-1.1.0/res/layout-v21/notification_template_custom_big.xml"
+        "source": "/root/.gradle/caches/transforms-2/files-2.1/f3a4077100f7b4169f0fc317f659f74d/core-1.1.0/res/layout-v21/notification_template_custom_big.xml"
     }
 ]

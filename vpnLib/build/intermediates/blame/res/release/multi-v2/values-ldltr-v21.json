@@ -4,7 +4,7 @@
             "outputFile": "/root/myvpnstudy/MyVpnStudy/vpnLib/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
             "map": [
                 {
-                    "source": "/root/.gradle/caches/transforms-2/files-2.1/9169c584f4b727759d2e94f8a51800f8/appcompat-1.1.0/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "source": "/root/.gradle/caches/transforms-2/files-2.1/b103d0b38090ea30448513519db450b7/appcompat-1.1.0/res/values-ldltr-v21/values-ldltr-v21.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -19,7 +19,7 @@
             "outputFile": "/root/myvpnstudy/MyVpnStudy/vpnLib/build/intermediates/res/merged/release/values-ldltr-v21/values-ldltr-v21.xml",
             "map": [
                 {
-                    "source": "/root/.gradle/caches/transforms-2/files-2.1/9169c584f4b727759d2e94f8a51800f8/appcompat-1.1.0/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "source": "/root/.gradle/caches/transforms-2/files-2.1/b103d0b38090ea30448513519db450b7/appcompat-1.1.0/res/values-ldltr-v21/values-ldltr-v21.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
